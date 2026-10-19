@@ -1,0 +1,1 @@
+import"./esa-tab-layout.Bmm3pJ7y.js";var e={basic:[{label:`Overview`},{label:`Hours`},{label:`Budget`}],states:[{label:`Open`,badge:4},{label:`Drafts`,disabled:!0},{label:`Closed`,badge:28}]};document.querySelectorAll(`esa-tab-layout[data-tabs]`).forEach(t=>{t.tabs=e[t.getAttribute(`data-tabs`)]});

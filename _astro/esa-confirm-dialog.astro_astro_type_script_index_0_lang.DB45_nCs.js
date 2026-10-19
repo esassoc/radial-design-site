@@ -1,0 +1,1 @@
+import"./esa-confirm-dialog.aTnHanwf.js";document.querySelectorAll(`[data-target]`).forEach(e=>e.addEventListener(`click`,()=>{document.getElementById(e.dataset.target)?.show()}));

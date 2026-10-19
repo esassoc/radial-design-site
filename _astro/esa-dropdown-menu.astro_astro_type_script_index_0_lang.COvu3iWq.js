@@ -1,0 +1,1 @@
+import"./esa-dropdown-menu.BOBdfZ9J.js";var e=[{label:`Edit`,icon:`pencil`,action:`edit`},{label:`Duplicate`,icon:`copy`,action:`duplicate`},{label:`Archive`,icon:`archive`,action:`archive`,disabled:!0},{divider:!0},{label:`Delete`,icon:`trash`,action:`delete`,variant:`danger`}];document.querySelectorAll(`esa-dropdown-menu`).forEach(t=>{t.items=e});

@@ -1,0 +1,1 @@
+import{i as e,r as t}from"./theme.COwILtNz.js";var n=document.getElementById(`rd-theme`),r=()=>{let e=t()===`dark`?`Switch to light theme`:`Switch to dark theme`;n.setAttribute(`aria-label`,e),n.title=e};n.addEventListener(`click`,e),document.addEventListener(`rd-scheme`,r),r();

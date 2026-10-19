@@ -1,0 +1,1 @@
+import"./esa-combobox.DIyY5T7Y.js";var e=[`Owen Park`,`Maya Ellis`,`Jordan Reyes`,`Priya Shah`,`Sam Okafor`].map(e=>({label:e,value:e.toLowerCase().replace(/\s+/g,`-`)}));customElements.whenDefined(`esa-combobox`).then(()=>{document.querySelectorAll(`esa-combobox`).forEach(t=>{t.options=e})});
